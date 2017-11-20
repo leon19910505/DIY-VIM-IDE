@@ -76,3 +76,7 @@
  ```
       :PluginInstall
  ```
+# 刷新vim配置 
+```
+ source ~/.vimrc
+```

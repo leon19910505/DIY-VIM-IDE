@@ -74,9 +74,9 @@
  ```
  
   * 然后输入安装命令，enter 进行安装
-  ```
-     :PluginInstall
-  ```
+   ```
+      :PluginInstall
+   ```
 
 # 刷新vim配置 
 ```

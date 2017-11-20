@@ -6,7 +6,11 @@
    git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
  ```
  * config 
-  > vim ~/.vimrc, mac 默认在用户目录下，也就是~/   ,是用户级别的配置，但是会覆盖全局， 全局的.vimrc　在etc 下面
+   mac 默认在用户目录下，也就是~/   ,是用户级别的配置，但是会覆盖全局， 全局的.vimrc　在etc 下面
+ ```
+  vim ~/.vimrc
+ ``` 
+   copy下面的配置
  ```vim
    set nocompatible              " 去除VI一致性,必须
    filetype plugin  off                  " 必须

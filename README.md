@@ -72,13 +72,7 @@
    highlight CursorColumn cterm=NONE ctermbg=white ctermfg=black guibg=NONE guifg=NONE
 
  ```
- 
-  * 然后输入安装命令，enter 进行安装
-   ```
+ * 然后输入安装命令，enter 进行安装
+ ```
       :PluginInstall
-   ```
-
-# 刷新vim配置 
-```
- source ~/.vimrc
-```
+ ```
